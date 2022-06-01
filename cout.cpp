@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "Git" << endl;
+    cout << "Git" << endl
+         << "Change" << endl;
     return 0;
 }
